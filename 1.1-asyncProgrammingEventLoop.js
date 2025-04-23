@@ -22,7 +22,8 @@ function test(id) {
   console.log("Execute fn", id);
 }
 
-const executeTest = schedule(test, 100);
+const delayTime = 500;
+const executeTest = schedule(test, delayTime);
 
 executeTest("1");
 executeTest("2");
