@@ -3,9 +3,8 @@ import { ParentComponent } from './parent.component';
 
 @Component({
   selector: 'app-root',
+  standalone: true,
   imports: [ParentComponent],
   template: `<app-parent></app-parent>`,
 })
-export class AppComponent {
-  title = 'angular-execise-change-detection';
-}
+export class AppComponent {}
