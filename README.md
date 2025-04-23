@@ -40,3 +40,49 @@ OUTPUT
 ```
    Result: 90000
 ```
+
+2. Angular-Focused Exercises
+
+2.1 Change Detection, OnPush & Lifecycle Hooks
+
+`cd angular-execise-change-detection`
+
+Install dependencies
+
+`npm install`
+
+Start the dev server
+
+`ng serve`
+
+Local server url: `http://localhost:4200`
+
+2.2 NgRx (or NGXS) State Handling
+
+`cd 2.2-ngrx-shopping-cart`
+
+Install dependencies
+
+`npm install`
+
+Start the dev server
+
+`ng serve`
+
+Local server url: `http://localhost:4200/cart`
+
+3. React-Focused Exercises
+
+3.1 Custom Hooks & useMemo/useCallback
+
+`cd 3.1-react-fetch-cache-app`
+
+Install dependencies
+
+`npm install`
+
+Start the dev server
+
+`npm run dev`
+
+Local server url: `http://localhost:5173/`
