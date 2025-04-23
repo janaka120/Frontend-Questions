@@ -34,7 +34,7 @@ executeTest("6");
 executeTest("7");
 
 /**
- * execute program command: `node ./asyncProgrammingEventLoop-1-1.js`
+ * execute program command: `node ./1.1-asyncProgrammingEventLoop`
  * 
  * <<<<< OUTPUT >>>>>>
     Rate limit exceeded fn: 6
