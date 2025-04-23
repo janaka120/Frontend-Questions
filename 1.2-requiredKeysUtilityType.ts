@@ -67,9 +67,12 @@ if (
 }
 
 /**
+ * execute program command: For Node.js >=23
+ * `node --experimental-transform-types 1.2-requiredKeysUtilityType.ts`
+ * 
  * <<<<< OUTPUT >>>>>
     GameName1 has all required keys.
-    
+
     Error: Missing required key category
     GameName2 is missing required keys.
  */
