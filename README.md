@@ -163,3 +163,25 @@ Run the development server:
 
 Access the application:
 Open your browser and navigate to `http://localhost:5173`
+
+5. Helm &amp; CI Integration
+
+5.1 Helm Chart for SPA
+
+simple and clean Helm chart for deploying a frontend Single Page Application (SPA) with support for:
+
+- Optional Service
+
+- Optional Ingress
+
+- Custom extraEnvVars
+
+- Reusable named templates via \_helpers.tpl
+
+Navigate to folder
+`cd 5.1-spa-helm-chart/`
+
+5.2 Helm Hooks for Frontend Cache Busting
+
+Navigate to folder
+`cd 5.2-helm-hooks-frontend/`
