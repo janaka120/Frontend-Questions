@@ -114,3 +114,52 @@ Start the dev server
 `npm run dev`
 
 Local server url: `http://localhost:5173/`
+
+4. End-to-End Frontend Integration
+
+4.1 Micro-Frontend Router Strategy
+
+Run Parent MFE
+
+`cd shell`
+
+Install dependencies
+
+`npm install`
+
+Start the dev server
+
+`npm run dev`
+
+Local server url: `http://localhost:5000/`
+
+Run Child MFE
+
+`cd app-a`
+
+Install dependencies
+
+`npm install`
+
+Start the dev server
+
+```
+npm run build
+npm run preview
+```
+
+Local server url: `http://localhost:5001/`
+
+4.2 Bundle Optimization &amp; SSR Hydration
+
+Navigate to folder
+`cd 4.2-optinize-react-app`
+
+Install dependencies:
+`npm install`
+
+Run the development server:
+`npm run dev`
+
+Access the application:
+Open your browser and navigate to `http://localhost:5173`
