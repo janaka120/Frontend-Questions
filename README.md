@@ -63,6 +63,10 @@ Start the dev server
 
 Local server url: `http://localhost:4200`
 
+Results: ![2.1 Change Detection, OnPush & Lifecycle Hooks-1](angular-execise-change-detection/public/Screenshot%202025-04-24%20at%205.33.29 AM.png)
+
+Results: ![2.1 Change Detection, OnPush & Lifecycle Hooks-2](angular-execise-change-detection/public/Screenshot%202025-04-24%20at%205.35.09 AM.png)
+
 2.2 NgRx (or NGXS) State Handling
 
 `cd 2.2-ngrx-shopping-cart`
@@ -76,6 +80,8 @@ Start the dev server
 `ng serve`
 
 Local server url: `http://localhost:4200/cart`
+
+Results: ![2.2 NgRx (or NGXS) State Handling](2.2-ngrx-shopping-cart/public/Screenshot%202025-04-24%20at%206.20.27 AM.png)
 
 3. React-Focused Exercises
 
@@ -93,6 +99,9 @@ Start the dev server
 
 Local server url: `http://localhost:5173/`
 
+Results: ![3.1 Custom Hooks & useMemo/useCallback](3.1-react-fetch-cache-app/public/Screenshot%202025-04-24%20at%206.45.21 AM.png)
+Results: ![3.1 Custom Hooks & useMemo/useCallback-2](3.1-react-fetch-cache-app/public/Screenshot%202025-04-24%20at%206.46.46 AM.png)
+
 3.2 Performance Optimization & Virtualized Lists
 
 `cd 3.2-virtual-list-app`
@@ -107,6 +116,10 @@ Start the dev server
 
 Local server url: `http://localhost:5173/`
 
+Results: ![3.2 Performance Optimization & Virtualized Lists](3.2-virtual-list-app/public/Screenshot%202025-04-24%20at%207.16.34 AM.png)
+
+Results: ![3.2 Performance Optimization & Virtualized Lists-2](3.2-virtual-list-app/public/Screenshot%202025-04-24%20at%207.20.14 AM.png)
+
 3.3 Higher-Order Components (HoC)
 
 `cd 3.3-higher-order-component-app`
@@ -120,6 +133,10 @@ Start the dev server
 `npm run dev`
 
 Local server url: `http://localhost:5173/`
+
+Results: ![3.3 Higher-Order Components](3.3-higher-order-component-app/public/Screenshot%202025-04-24%20at%207.30.30 AM.png)
+
+Results: ![3.3 Higher-Order Components-2](3.3-higher-order-component-app/public/Screenshot%202025-04-24%20at%207.30.41 AM.png)
 
 4. End-to-End Frontend Integration
 
@@ -155,6 +172,9 @@ npm run preview
 ```
 
 Local server url: `http://localhost:5001/`
+
+Results: ![Micro-Frontend Router Strategy](4.1-react-mfe/app-a/public/Screenshot%202025-04-25%20at%206.54.21 AM.png)
+Results: ![Micro-Frontend Router Strategy-2](4.1-react-mfe/app-a/public/Screenshot%202025-04-25%20at%206.57.12 AM.png)
 
 4.2 Bundle Optimization &amp; SSR Hydration
 
