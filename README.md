@@ -18,6 +18,8 @@ OUTPUT
    Execute fn 5
 ```
 
+Results: ![1.1-asyncProgrammingEventLoop](2.2-ngrx-shopping-cart/public/Screenshot%202025-04-30%20at%207.54.17 AM.png)
+
 1.2 Required Keys Utility Type
 
 execute `node --experimental-transform-types 1.2-requiredKeysUtilityType.ts`
@@ -31,6 +33,8 @@ OUTPUT
    GameName2 is missing required keys.
 ```
 
+Results: ![1.2 Required Keys Utility Type](2.2-ngrx-shopping-cart/public/Screenshot%202025-04-30%20at%208.00.26 AM.png)
+
 1.3 Function Composition & Closures
 
 execute `node ./1.3-functionCompositionClosures.js`
@@ -40,6 +44,8 @@ OUTPUT
 ```
    Result: 90000
 ```
+
+Results: ![1.3 Function Composition & Closures](2.2-ngrx-shopping-cart/public/Screenshot%202025-04-30%20at%208.01.13 AM.png)
 
 2. Angular-Focused Exercises
 
